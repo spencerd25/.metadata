@@ -1,0 +1,4 @@
+#Thu Sep 12 08:58:09 MDT 2013
+__DEFAULT__=false
+org.eclipse.help.ui.localSearch.master=true
+expression=java package

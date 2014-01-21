@@ -1,0 +1,7 @@
+1389366361638	Delete element
+1389366431891	Rename package 'Controller'
+1389366439899	Rename package 'Model'
+1389367327160	Rename type 'Array'
+1389367851256	Encapsulate field 'mystring'
+1389367855011	Encapsulate field 'myint'
+1389367860137	Encapsulate field 'mygiraffe'

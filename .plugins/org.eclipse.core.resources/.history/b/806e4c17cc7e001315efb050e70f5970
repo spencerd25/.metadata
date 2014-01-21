@@ -1,0 +1,31 @@
+package view;
+
+import Controller.Controller;
+
+public class GridView
+{
+
+	
+	public void printStringInformation(int favoriteNumbers)
+	{
+		System.out.println("foreach printing");
+		for(String [] currentRow : favoriteNumbers)
+		{
+			for(String currentNumber : currentRow)
+			{
+				System.out.print(currentNumber + "\t");
+			}
+			System.out.println();
+		}
+		
+		System.out.println("for printing");
+		for(int row = 0; row < favoriteNumbers.length; row++)
+		{
+			for(int col = 0; col < favoriteNumbers[0].length; col++)
+			{
+				System.out.print(row + "," + col + favoriteNumbers[row][col] );
+			}
+		System.out.println();
+		}
+	}
+}

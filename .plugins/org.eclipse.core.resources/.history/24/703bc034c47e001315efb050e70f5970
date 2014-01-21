@@ -1,0 +1,15 @@
+package Controller;
+
+public class Controller
+{
+	
+public Controller()
+	{
+		Name[][]myNames = new Name[4][4];
+	}
+
+public void start()
+	{
+
+	}
+}

@@ -1,0 +1,20 @@
+package Controller;
+
+import java.util.jar.Attributes.Name;
+
+public class Controller
+{
+
+public void fillNumbers()
+{
+	myFavoriteNumbers[0][0]= 25;
+	myFavoriteNumbers[0][1]= 25;
+}
+
+
+public void start()
+	{
+	fillNumbers();
+	consoleView.printIntInformation(myFavoriteNumbers)
+	}
+}

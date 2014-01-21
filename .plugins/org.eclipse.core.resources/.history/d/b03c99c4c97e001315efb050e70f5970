@@ -1,0 +1,17 @@
+package Controller;
+
+import java.util.jar.Attributes.Name;
+
+public class Controller
+{
+	
+public Controller()
+	{
+		Name[][]myNames = new Name[4][4];
+	}
+
+public void start()
+	{
+
+	}
+}

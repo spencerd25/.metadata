@@ -1,0 +1,8 @@
+package view;
+
+import Controller.Controller;
+
+public class GridView
+{
+
+}

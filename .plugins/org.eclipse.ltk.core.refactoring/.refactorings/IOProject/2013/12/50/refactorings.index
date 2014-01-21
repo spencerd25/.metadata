@@ -1,0 +1,7 @@
+1386947162607	Rename type 'Panel'
+1386947173121	Rename type 'Frame'
+1386948017387	Rename type 'Controller'
+1386948031224	Rename type 'Runner'
+1386948041645	Rename type 'Game'
+1386949839148	Encapsulate field 'gameRules'
+1386950118220	Rename compilation unit 'IOGame.java'

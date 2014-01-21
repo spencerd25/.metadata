@@ -1,0 +1,9 @@
+1381239961712	Rename package 'codemodel'
+1381242337909	Rename package 'code.runner'
+1381246588468	Convert local variable 'g' to field
+1381246723308	Convert local variable 'g' to field
+1381326154411	Convert local variable 'g' to field
+1381327373649	Rename resource 'tileset_terrain.png'
+1381328439035	Encapsulate field 'Codescreen'
+1381329916692	Delete element
+1381413247240	Delete element
